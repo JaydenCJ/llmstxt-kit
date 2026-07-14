@@ -1,0 +1,12 @@
+{
+  "name": "Brewlog",
+  "baseUrl": "https://example.test/docs/",
+  "docsDir": "docs",
+  "sections": {
+    "getting-started": "Getting started",
+    "guides": "Guides",
+    "api": "API reference"
+  },
+  "sectionOrder": ["Getting started", "Guides", "API reference"],
+  "optional": ["reference/**"]
+}
