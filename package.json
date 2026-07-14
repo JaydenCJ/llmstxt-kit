@@ -2,7 +2,7 @@
   "name": "llmstxt-kit",
   "version": "0.1.0",
   "description": "Toolchain for the llms.txt spec: generate, lint and diff llms.txt / llms-full.txt from any Markdown docs tree. Zero runtime dependencies, fully offline.",
-  "author": "JaydenCJ",
+  "author": "JaydenCJ <aisingioro.kiyon@gmail.com>",
   "license": "MIT",
   "type": "module",
   "bin": {
